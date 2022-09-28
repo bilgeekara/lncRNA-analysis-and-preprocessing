@@ -24,7 +24,7 @@ The dataset used for this research is obtained by selecting lncRNAs that are per
 
 ![Ekran görüntüsü 2022-09-28 202400](https://user-images.githubusercontent.com/71135791/192848548-bc4d7b4e-f679-46d4-acb6-c22df0ff6f95.jpg)
 
-Figure 2. Flow chart of data extraction from different data sources
+## Figure 2. Flow chart of data extraction from different data sources
 
 ## 2.1 Fetching Transcript Coordinates
 
@@ -54,7 +54,7 @@ Results obtained from all three sections above are combined and analyzed. Scatte
 
 ## Figure 3. Scatter plot showing transcripts with or without disease-associated variants
 
-![Ekran görüntüsü 2022-09-28 202606](https://user-images.githubusercontent.com/71135791/192849493-ab93eba6-7fef-4722-a08e-7dbde0c58d36.jpg)4
+![Ekran görüntüsü 2022-09-28 202606](https://user-images.githubusercontent.com/71135791/192849493-ab93eba6-7fef-4722-a08e-7dbde0c58d36.jpg)
 
 ## Figure 4. Plot showing the presence of different kinds of disease  variants within transcripts
 
